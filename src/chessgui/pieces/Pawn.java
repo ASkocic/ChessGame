@@ -25,13 +25,7 @@ public class Pawn extends Piece {
     @Override
     public boolean canMove(int destination_x, int destination_y)
     {
-        // Remember: A pawn may only move towards the oponent's side of the board.
-        // If the pawn has not moved yet in the game, for its first move it can 
-        // move two spaces forward. Otherwise, it may only move one space. 
-        // When not attacking it may only move straight ahead.
-        // When attacking it may only move space diagonally forward
-
-                // WRITE CODE HERE
+        
         
                 
                 

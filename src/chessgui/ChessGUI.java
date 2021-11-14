@@ -2,7 +2,7 @@ package chessgui;
 
 /**
  *
- * @author Paul Soderquist
+ * @alskocic
  */
 public class ChessGUI {
     
